@@ -1,0 +1,70 @@
+# ICESat-2 Bathymetry
+
+[Example Repo Text - Not Yet Approved by the Working Group]
+
+<p align="center">
+  <img src="images/bannerhorizontal2k.jpg" alt="drawing" width="800"/>
+</p>
+Interested in using ICESat-2 bathymetry data or exploring current research? This repository contains information about current and past research collected by members of the ICESat-2 bathymetry working group. 
+
+## What can ICESat-2 do?
+The [ICESat-2](https://icesat-2.gsfc.nasa.gov) mission is a satellite laser altimeter launched in 2018. It's photon counting lidar makes precise elevation measurements globally, including at high-latitudes. In addition to significant contributions to glaciology and forest mapping, ICESat-2 has proven capable of measuring the depth of the seafloor with sub-meter accuracy, and as deep as 40m in good conditions.
+
+## What's the best way to access ICESat-2 data?
+The Science Team maintains a list of general ICESat-2 tools available [here](https://nsidc.org/data/user-resources/help-center/icesat-2-tools-and-services).
+
+The working group is currently in the process of creating a bathymetric data product. Until then, users should download the geolocated photon data product ATL03 which contains all photon data. We recommend starting with [NSIDC](https://nsidc.org/data/atl03/versions/5) or [SlideRule](http://icesat2sliderule.org).
+
+For bathymetry focused data downloading tutorials, check out one of the demo notebooks [here](https://github.com/jonm3D/OpenOceans/blob/pkg/is2data/demos/Demo_SlideRule_Interactive_Query.ipynb) or [here](https://github.com/nmt28/C-SHELPh/tree/main/4.Tutorial).
+
+## How do I correct depth data for refraction?
+
+Refraction-corrected depths are not currently calculated for existing data, although this will likely be included on a future bathymetric product. The approach outlined in [Parrish, Magruder et al. 2019](https://www.mdpi.com/494326) has been frequently used and validated in research, although [new approaches](https://opg.optica.org/oe/fulltext.cfm?uri=oe-29-2-2411&id=446584) have been explored in the literature as well.
+
+_Code implementations of Parrish 2019 are available in [Python]() (missing link) and [MATLAB]() (missing link)._
+
+<p align="center">
+  <img src="images/remotesensing-11-01634-ag.png" alt="drawing" width="400"/>
+</p>
+
+
+## How do I extract the water surface and seafloor returns?
+Photon data can be labeled by hand using the [OpenOceans Manual Classification Tool](https://github.com/jonm3D/OpenOceans) or [PhotonLabeler](https://github.com/Oht0nger/PhoLabeler) tools.
+
+Automated methods of labeling large amounts of data are an open area of research. Which method is best may depend on your use case and desired accuracy.
+
+_EXTRACTION CODE 1 BY WORKING GROUP MEMBER_
+- Description here
+- Link to publication
+
+_EXTRACTION CODE 2 BY WORKING GROUP MEMBER_
+- Description here
+- Link to publication
+
+_Extaction approaches without code or by non working group members._
+
+## ICESat-2 and Derived Datasets
+### Recent Datasets by Members
+[Bahamas Median DEM](https://ieee-dataport.org/documents/purely-spaceborne-open-source-approach-regional-bathymetry-mapping-bahamas-median-dem), from A PURELY SPACEBORNE OPEN SOURCE APPROACH FOR REGIONAL BATHYMETRY MAPPING (2022).
+- Description here from Nathan.
+
+[Already Labeled Data]() (missing link) 
+- This ICESat-2 photon data has been manually labeled by working group members.
+
+[Good Bathymetry Example Tracks]() (missing link)
+
+
+### Other Useful Datasets
+- [NOAA Digital Coast](https://coast.noaa.gov/dataviewer/#/) - Repository for NOAA survey data. In particular, elevation data and topobathymetric lidar surveys available here have been useful for validation of ICESat-2 depth data.
+
+## Publications
+The working group also maintains a shared Zotero library of ICESat-2 bathymetry related publications. 
+
+To be added to this library, contact XXXX. Alternatively, we could make this library public by default and add a link to automatically get added.
+
+## Membership
+We could also list members and ways to contact the working group if so desired.
+
+Member 1
+member1@gmail.com
+Affiliation 1
