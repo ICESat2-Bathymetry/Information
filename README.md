@@ -43,16 +43,18 @@ _EXTRACTION CODE 2 BY WORKING GROUP MEMBER_
 
 _Extaction approaches without code or by non working group members._
 
-## ICESat-2 and Derived Datasets
+## Featured Member Research
 ### Recent Datasets by Members
 [Bahamas Median DEM](https://ieee-dataport.org/documents/purely-spaceborne-open-source-approach-regional-bathymetry-mapping-bahamas-median-dem), from A PURELY SPACEBORNE OPEN SOURCE APPROACH FOR REGIONAL BATHYMETRY MAPPING (2022).
 - Description here from Nathan.
+
+[Kd532 Estimation from ICESat-2 Photon Data](https://github.com/fpcorcoran/ATLAS_Kd532)
+- Description here from Forrest
 
 [Already Labeled Data]() (missing link) 
 - This ICESat-2 photon data has been manually labeled by working group members.
 
 [Good Bathymetry Example Tracks]() (missing link)
-
 
 ### Other Useful Datasets
 - [NOAA Digital Coast](https://coast.noaa.gov/dataviewer/#/) - Repository for NOAA survey data. In particular, elevation data and topobathymetric lidar surveys available here have been useful for validation of ICESat-2 depth data.
