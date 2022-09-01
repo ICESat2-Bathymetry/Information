@@ -60,9 +60,7 @@ _Extaction approaches without code or by non working group members._
 - [NOAA Digital Coast](https://coast.noaa.gov/dataviewer/#/) - Repository for NOAA survey data. In particular, elevation data and topobathymetric lidar surveys available here have been useful for validation of ICESat-2 depth data.
 
 ## Publications
-The working group also maintains a shared Zotero library of ICESat-2 bathymetry related publications. 
-
-To be added to this library, contact XXXX. Alternatively, we could make this library public by default and add a link to automatically get added.
+The working group also maintains a shared Zotero library of ICESat-2 bathymetry related publications. [You can access it here](https://www.zotero.org/groups/4376978/icesat2_bathy).
 
 ## Membership
 We could also list members and ways to contact the working group if so desired.
