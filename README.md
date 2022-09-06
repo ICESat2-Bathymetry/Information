@@ -27,6 +27,8 @@ _Code implementations of Parrish 2019 are available in [Python]() (missing link)
   <img src="images/remotesensing-11-01634-ag.png" alt="drawing" width="400"/>
 </p>
 
+Index of refraction in seawater and freshwater: http://research.engr.oregonstate.edu/parrish/index-refraction-seawater-and-freshwater-function-wavelength-and-temperature#overlay-context=research
+
 
 ## How do I extract the water surface and seafloor returns?
 Photon data can be labeled by hand using the [OpenOceans Manual Classification Tool](https://github.com/jonm3D/OpenOceans) or [PhotonLabeler](https://github.com/Oht0nger/PhoLabeler) tools.
