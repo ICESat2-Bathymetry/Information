@@ -1,6 +1,6 @@
 # ICESat-2 Bathymetry
 
-[Example Repo Text - Not Yet Approved by the Working Group]
+[Repo Details In Progress!]
 
 <p align="center">
   <img src="images/bannerhorizontal2k.jpg" alt="drawing" width="800"/>
