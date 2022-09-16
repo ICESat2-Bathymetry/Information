@@ -1,11 +1,11 @@
 # ICESat-2 Bathymetry
 
-[Repo Details In Progress!]
+Interested in using ICESat-2 bathymetry data or exploring current research? This repository contains information about current and past research collected by members of the ICESat-2 bathymetry working group. 
 
 <p align="center">
   <img src="images/bannerhorizontal2k.jpg" alt="drawing" width="800"/>
 </p>
-Interested in using ICESat-2 bathymetry data or exploring current research? This repository contains information about current and past research collected by members of the ICESat-2 bathymetry working group. 
+
 
 ## What can ICESat-2 do?
 The [ICESat-2](https://icesat-2.gsfc.nasa.gov) mission is a satellite laser altimeter launched in 2018. It's photon counting lidar makes precise elevation measurements globally, including at high-latitudes. In addition to significant contributions to glaciology and forest mapping, ICESat-2 has proven capable of measuring the depth of the seafloor with sub-meter accuracy, and as deep as 40m in good conditions.
