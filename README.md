@@ -27,10 +27,10 @@ _Code implementations of Parrish 2019 are available in [Python]() (missing link)
   <img src="images/remotesensing-11-01634-ag.png" alt="drawing" width="400"/>
 </p>
 
-The angle of refraction, phi, in the above figure is calculated from Snell's law and requires having a value for n_2, which can be computed as described in the discussion of the refractive index of seawater and freshwater:[here]
-(http://research.engr.oregonstate.edu/parrish/index-refraction-seawater-and-freshwater-function-wavelength-and-temperature#overlay-context=research)
+The angle of refraction, phi, in the above figure is calculated from Snell's law and requires having a value for n_2, which can be computed as described in the <a href="http://research.engr.oregonstate.edu/parrish/index-refraction-seawater-and-freshwater-function-wavelength-and-temperature#overlay-context=research">discussion of the refractive index of seawater and freshwater. </a>
 
-A water surface model (WSM) is also needed, and obtaining a WSM cab be one of the most challenging aspects of refraction correction.
+
+A water surface model (WSM) is also needed, and obtaining a WSM can be one of the most challenging aspects of refraction correction.
 
 ## How do I extract the water surface and seafloor returns?
 Photon data can be labeled by hand using the [OpenOceans Manual Classification Tool](https://github.com/jonm3D/OpenOceans) or [PhotonLabeler](https://github.com/Oht0nger/PhoLabeler) tools.
