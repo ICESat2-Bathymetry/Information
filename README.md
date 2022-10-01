@@ -3,7 +3,7 @@
 Interested in using ICESat-2 bathymetry data or exploring current research? This repository contains information about current and past research collected by members of the ICESat-2 bathymetry working group. 
 
 <p align="center">
-  <img src="images/bannerhorizontal2k.jpg" alt="drawing" width="800"/>
+  <img src="images/bannerhorizontal2k.jpg" alt="drawing" width="600"/>
 </p>
 
 
@@ -47,10 +47,18 @@ __Automated Seafloor Extraction Codes__
 ## ICESat-2 Bathymetry Member Research
 
 [Nearshore bathymetry and seafloor property studies from Space lidars: CALIPSO and ICESat-2](https://opg.optica.org/oe/abstract.cfm?URI=oe-30-20-36509), Xiaomei Lu, Yongxiang Hu, Ali Omar, Yuekui Yang, Mark Vaughan, Sharon Rodier, Anne Garnier, Robert Ryan, Brian Getzewich, and Charles Trepte. (2022)
-
+<p align="center">
+  <img src="images/lu_2022_fig.jpeg" alt="drawing" width="600"/>
+</p>
 [A purely spaceborne open source approach for regional bathymetry mapping](https://ieeexplore.ieee.org/abstract/document/9834969) Nathan Thomas; Brian Lee; Oliver Coutts; Pete Bunting; David Lagomasino; Lola Fatoyinbo (2022)
+<p align="center">
+  <img src="images/thomas_2022_fig.gif" alt="drawing" width="600"/>
+</p>
 
 [Diffuse Attenuation Coefficient (Kd) from ICESat-2 ATLAS Spaceborne Lidar Using Random-Forest Regression](https://www.ingentaconnect.com/content/asprs/pers/2021/00000087/00000011/art00011)  Corcoran, Forrest; Parrish, Christopher. (2021) [Link to code](https://github.com/fpcorcoran/ATLAS_Kd532).
+<p align="center">
+  <img src="images/corcoran_2021_fig.png" alt="drawing" width="600"/>
+</p>
 
 ### Recent Datasets by Members
 [Bahamas Median DEM](https://ieee-dataport.org/documents/purely-spaceborne-open-source-approach-regional-bathymetry-mapping-bahamas-median-dem), from A PURELY SPACEBORNE OPEN SOURCE APPROACH FOR REGIONAL BATHYMETRY MAPPING (2022).
