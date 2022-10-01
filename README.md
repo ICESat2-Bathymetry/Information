@@ -46,15 +46,11 @@ __Automated Seafloor Extraction Codes__
 ## Featured Member Research
 ### Recent Datasets by Members
 [Bahamas Median DEM](https://ieee-dataport.org/documents/purely-spaceborne-open-source-approach-regional-bathymetry-mapping-bahamas-median-dem), from A PURELY SPACEBORNE OPEN SOURCE APPROACH FOR REGIONAL BATHYMETRY MAPPING (2022).
-- Description here from Nathan.
+- A median composite DEM derived from a fusion of ICESat-2 and Landsat-8 data, created with a Extra Trees Regressor. Units are in m depth.
 
 [Kd532 Estimation from ICESat-2 Photon Data](https://github.com/fpcorcoran/ATLAS_Kd532)
-- Description here from Forrest
+- An active remote sensing method to measure the diffuse attenuation at 532nm ($K_{d532}$) using the Advance Topographic Laser Altimeter System (ATLAS) on board NASA’s Ice, Cloud, and land Elevation Satellite 2 (ICESat-2).
 
-[Already Labeled Data]() (missing link) 
-- This ICESat-2 photon data has been manually labeled by working group members.
-
-[Good Bathymetry Example Tracks]() (missing link)
 
 ### Other Useful Datasets
 - [NOAA Digital Coast](https://coast.noaa.gov/dataviewer/#/) - Repository for NOAA survey data. In particular, elevation data and topobathymetric lidar surveys available here have been useful for validation of ICESat-2 depth data.
