@@ -21,7 +21,7 @@ For bathymetry focused data downloading tutorials, check out one of the demo not
 
 Refraction-corrected depths are not currently calculated for existing data, although this will likely be included on a future bathymetric product. The approach outlined in [Parrish, Magruder et al. 2019](https://www.mdpi.com/494326) has been frequently used and validated in research, although [new approaches](https://opg.optica.org/oe/fulltext.cfm?uri=oe-29-2-2411&id=446584) have been explored in the literature as well.
 
-_Code implementations of Parrish 2019 are available in [Python]() (missing link) and [MATLAB]() (missing link)._
+_Code implementations of Parrish 2019 are available in [Python](https://github.com/ICESat2-Bathymetry/Information/blob/main/code/photon_refraction.py) and [MATLAB](https://github.com/ICESat2-Bathymetry/Information/blob/main/code/refraction_correction_atlas.m)._
 
 <p align="center">
   <img src="images/remotesensing-11-01634-ag.png" alt="drawing" width="400"/>
