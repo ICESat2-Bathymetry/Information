@@ -41,21 +41,34 @@ __Automated Seafloor Extraction Codes__
 1. C-SHELPh
 
   - Automated retrieval of bathy photons and ML regression modeling for satellite derived bathymetry. [Link to code](https://github.com/nmt28/C-SHELPh). [Link to Publication](https://doi.org/10.1029/2020GL092170).
+  
+2. More coming soon.
 
+## ICESat-2 Bathymetry Member Research
 
-## Featured Member Research
+[Nearshore bathymetry and seafloor property studies from Space lidars: CALIPSO and ICESat-2](https://opg.optica.org/oe/abstract.cfm?URI=oe-30-20-36509), Xiaomei Lu, Yongxiang Hu, Ali Omar, Yuekui Yang, Mark Vaughan, Sharon Rodier, Anne Garnier, Robert Ryan, Brian Getzewich, and Charles Trepte. (2022)
+
+[A purely spaceborne open source approach for regional bathymetry mapping](https://ieeexplore.ieee.org/abstract/document/9834969) Nathan Thomas; Brian Lee; Oliver Coutts; Pete Bunting; David Lagomasino; Lola Fatoyinbo (2022)
+
+[Diffuse Attenuation Coefficient (Kd) from ICESat-2 ATLAS Spaceborne Lidar Using Random-Forest Regression](https://www.ingentaconnect.com/content/asprs/pers/2021/00000087/00000011/art00011)  Corcoran, Forrest; Parrish, Christopher. (2021) [Link to code](https://github.com/fpcorcoran/ATLAS_Kd532).
+
 ### Recent Datasets by Members
 [Bahamas Median DEM](https://ieee-dataport.org/documents/purely-spaceborne-open-source-approach-regional-bathymetry-mapping-bahamas-median-dem), from A PURELY SPACEBORNE OPEN SOURCE APPROACH FOR REGIONAL BATHYMETRY MAPPING (2022).
 - A median composite DEM derived from a fusion of ICESat-2 and Landsat-8 data, created with a Extra Trees Regressor. Units are in m depth.
 
-[Kd532 Estimation from ICESat-2 Photon Data](https://github.com/fpcorcoran/ATLAS_Kd532)
-- An active remote sensing method to measure the diffuse attenuation at 532nm ($K_{d532}$) using the Advance Topographic Laser Altimeter System (ATLAS) on board NASA’s Ice, Cloud, and land Elevation Satellite 2 (ICESat-2).
 
-
-### Other Useful Datasets
+### Other Useful Data and Tools
 - [NOAA Digital Coast](https://coast.noaa.gov/dataviewer/#/) - Repository for NOAA survey data. In particular, elevation data and topobathymetric lidar surveys available here have been useful for validation of ICESat-2 depth data.
 - [NOAA Bathymetric Data Viewer](https://www.ncei.noaa.gov/maps/bathymetry/) - Great repository for ship-based sounding data.
 - [General Bathymetric Chart of the Oceans (GEBCO)](https://download.gebco.net) - Global ocean bathymetric data available to download as a gridded product.
+ -[EMODnet Bathymetry](https://www.emodnet-bathymetry.eu/) - European Marine Observation and Data Network (EMODnet) bathymetry portal provides a service for viewing and downloading a harmonised Digital Terrain Model (DTM) for the European sea regions.
+ - [Tides and water levels](https://tidesandcurrents.noaa.gov/water_level_info.html) - Various official tidal predictions, datums, and more provided by NOAA.
+ - [Turbidity and ocean color](https://www.star.nesdis.noaa.gov/socd/mecb/color/index.php) - The ocean color science team in the Center for Satellite Applications and Research (STAR) of NOAA/NESDIS seeks to develop improved ocean color products from the current and future ocean color satellite sensors including SeaWIFS, MODIS, VIIRS, SNPP, JPSS, and many more.
+ - [Vertical datum transformations](https://vdatum.noaa.gov/vdatumweb/) - VDatum is a free software tool designed to vertically transform geospatial data among a variety of tidal, orthometric and ellipsoidal vertical datums.
+ - [Sentinel-2/Copernicus Open Access](https://scihub.copernicus.eu) - Source for downloading imagery from the Sentinel-2 satellite, as well as other sentinel products.
+ - [MODIS-1B data](https://modis.gsfc.nasa.gov/data/dataprod/mod02.php) - Calibrated and geolocated at-aperture radiances for 36 bands generated from MODIS Level 1A sensor counts (MOD 01).
+ - [GDAL](https://gdal.org) - GDAL is a translator library for raster and vector geospatial data formats.
+ - Various geospatial python libraries such as pyproj, geopandas, rasterio, shapely, etc...
 
 ## Publications
 The working group also maintains a shared Zotero library of ICESat-2 bathymetry related publications. [You can access it here](https://www.zotero.org/groups/4376978/icesat2_bathy).
@@ -68,6 +81,10 @@ christopher.parrish@oregonstate.edu
 Dr. Nathan Thomas
 Assistant Research Scientist, NASA Goddard
 nathan.m.thomas@nasa.gov
+
+Kim Lowell
+Research Scientist, Centre for Coastal and Ocean Mapping
+klowell@ccom.unh.edu
 
 Dr. Xiomei Lu
 Research Scientist, SSAI/NASA Langley Research Center
