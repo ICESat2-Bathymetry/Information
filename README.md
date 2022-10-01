@@ -11,11 +11,11 @@ Interested in using ICESat-2 bathymetry data or exploring current research? This
 The [ICESat-2](https://icesat-2.gsfc.nasa.gov) mission is a satellite laser altimeter launched in 2018. Its photon counting lidar makes precise elevation measurements globally, including at high-latitudes. In addition to significant contributions to glaciology and forest mapping, ICESat-2 has proven capable of measuring the depth of the seafloor with sub-meter accuracy, and as deep as 40m in good conditions.
 
 ## What's the best way to access ICESat-2 data?
-The Science Team maintains a list of general ICESat-2 tools available [here](https://nsidc.org/data/user-resources/help-center/icesat-2-tools-and-services).
-
-The working group is currently in the process of creating a bathymetric data product. Until then, users should download the geolocated photon data product ATL03 which contains all photon data. We recommend starting with [NSIDC](https://nsidc.org/data/atl03/versions/5) or [SlideRule](http://icesat2sliderule.org).
+The working group is currently in the process of creating a bathymetric data product. Until then, users should download the geolocated photon data product ATL03 which contains all photon data. We recommend downloading ICESat-2 geolocated photon data either using web based tools like [NSIDC](https://nsidc.org/data/atl03/versions/5) and [OpenAltimetry](https://openaltimetry.org/data/icesat2/), or programmatically with tools like [SlideRule](http://icesat2sliderule.org) and [IcePyx](https://icepyx.readthedocs.io/en/latest/index.html).
 
 For bathymetry focused data downloading tutorials, check out one of the demo notebooks [here](https://github.com/jonm3D/OpenOceans/blob/pkg/is2data/demos/Demo_SlideRule_Interactive_Query.ipynb) or [here](https://github.com/nmt28/C-SHELPh/tree/main/4.Tutorial).
+
+The Science Team also maintains a list of general ICESat-2 tools and services available [here](https://nsidc.org/data/user-resources/help-center/icesat-2-tools-and-services).
 
 ## How do I correct depth data for refraction?
 
@@ -27,7 +27,7 @@ _Code implementations of Parrish 2019 are available in [Python](https://github.c
   <img src="images/remotesensing-11-01634-ag.png" alt="drawing" width="400"/>
 </p>
 
-The angle of refraction, $\phi$, in the above figure is calculated from Snell's law and requires having a value for n_2, which can be computed as described in the [discussion of the refractive index of seawater and freshwater](http://research.engr.oregonstate.edu/parrish/index-refraction-seawater-and-freshwater-function-wavelength-and-temperature#overlay-context=research).
+The angle of refraction, $\phi$, in the above figure is calculated from Snell's law and requires having a value for $n_2$, which can be computed as described in the [discussion of the refractive index of seawater and freshwater](http://research.engr.oregonstate.edu/parrish/index-refraction-seawater-and-freshwater-function-wavelength-and-temperature#overlay-context=research).
 
 A water surface model (WSM) is also needed, and obtaining a WSM can be one of the more challenging aspects of refraction correction. 
 
@@ -36,15 +36,12 @@ Photon data can be labeled by hand using the [OpenOceans Manual Classification T
 
 Automated methods of labeling large amounts of data are an open area of research. Which method is best may depend on your use case and desired accuracy.
 
-_EXTRACTION CODE 1 BY WORKING GROUP MEMBER_
-- Description here
-- Link to publication
+__Automated Seafloor Extraction Codes__
 
-_EXTRACTION CODE 2 BY WORKING GROUP MEMBER_
-- Description here
-- Link to publication
+1. C-SHELPh
 
-_Extaction approaches without code or by non working group members._
+  - Automated retrieval of bathy photons and ML regression modeling for satellite derived bathymetry. [Link to code](https://github.com/nmt28/C-SHELPh). [Link to Publication](https://doi.org/10.1029/2020GL092170).
+
 
 ## Featured Member Research
 ### Recent Datasets by Members
