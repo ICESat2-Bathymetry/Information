@@ -1,4 +1,4 @@
-# ICESat-2 Bathymetry
+# ICESat-2 Bathymetry Overview
 
 Interested in using ICESat-2 bathymetry data or exploring current research? This repository contains information about current and past research collected by members of the ICESat-2 bathymetry working group. 
 
@@ -82,22 +82,22 @@ __Automated Seafloor Extraction Codes__
 The working group also maintains a shared Zotero library of ICESat-2 bathymetry related publications. [You can access it here](https://www.zotero.org/groups/4376978/icesat2_bathy).
 
 ## Contributing Working Group Members
-Dr. Chris Parrish
-Associate Professor, Oregon State University
+Dr. Chris Parrish</br>
+Associate Professor, Oregon State University</br>
 christopher.parrish@oregonstate.edu
 
-Dr. Nathan Thomas
-Assistant Research Scientist, NASA Goddard
+Dr. Nathan Thomas</br>
+Assistant Research Scientist, NASA Goddard</br>
 nathan.m.thomas@nasa.gov
 
-Kim Lowell
-Research Scientist, Centre for Coastal and Ocean Mapping
+Kim Lowell</br>
+Research Scientist, Centre for Coastal and Ocean Mapping</br>
 klowell@ccom.unh.edu
 
-Dr. Xiomei Lu
-Research Scientist, SSAI/NASA Langley Research Center
+Dr. Xiomei Lu</br>
+Research Scientist, SSAI/NASA Langley Research Center</br>
 xiaomei.lu@nasa.gov
 
-Jonathan Markel
-PhD Student, The University of Texas at Austin
+Jonathan Markel</br>
+PhD Student, The University of Texas at Austin</br>
 jonathanmarkel@gmail.com
