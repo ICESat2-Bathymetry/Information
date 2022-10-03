@@ -50,6 +50,7 @@ __Automated Seafloor Extraction Codes__
 <p align="center">
   <img src="images/lu_2022_fig.jpeg" alt="drawing" width="600"/>
 </p>
+
 [A purely spaceborne open source approach for regional bathymetry mapping](https://ieeexplore.ieee.org/abstract/document/9834969) Nathan Thomas; Brian Lee; Oliver Coutts; Pete Bunting; David Lagomasino; Lola Fatoyinbo (2022)
 <p align="center">
   <img src="images/thomas_2022_fig.gif" alt="drawing" width="600"/>
