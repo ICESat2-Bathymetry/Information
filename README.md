@@ -84,7 +84,7 @@ The working group also maintains a shared Zotero library of ICESat-2 bathymetry 
 
 ## Contributing Working Group Members
 Dr. Chris Parrish</br>
-Associate Professor, Oregon State University</br>
+Professor, Oregon State University</br>
 christopher.parrish@oregonstate.edu
 
 Dr. Nathan Thomas</br>
