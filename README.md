@@ -83,6 +83,10 @@ __Automated Seafloor Extraction Codes__
 The working group also maintains a shared Zotero library of ICESat-2 bathymetry related publications. [You can access it here](https://www.zotero.org/groups/4376978/icesat2_bathy).
 
 ## Contributing Working Group Members
+Jonathan Markel</br>
+PhD Student, The University of Texas at Austin</br>
+jonathanmarkel@gmail.com
+
 Dr. Chris Parrish</br>
 Professor, Oregon State University</br>
 christopher.parrish@oregonstate.edu
@@ -99,6 +103,4 @@ Dr. Xiomei Lu</br>
 Research Scientist, SSAI/NASA Langley Research Center</br>
 xiaomei.lu@nasa.gov
 
-Jonathan Markel</br>
-PhD Student, The University of Texas at Austin</br>
-jonathanmarkel@gmail.com
+
