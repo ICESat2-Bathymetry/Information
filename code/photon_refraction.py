@@ -60,11 +60,12 @@ def photon_refraction(W, Z, ref_az, ref_el,
     # angle of incidence (wout Earth curvature)
     theta_1_ = (np.pi / 2) - ref_el
 
-    # incidence correction for earths curvature - eq 13
-    delta_theta_EC = np.arctan(H * np.tan(theta_1_) / Re)
+    # # ignoring curvature correction based on correspondence with the author
+    # # incidence correction for earths curvature - eq 13
+    # delta_theta_EC = np.arctan(H * np.tan(theta_1_) / Re)
 
     # angle of incidence
-    theta_1 = theta_1_ + delta_theta_EC
+    theta_1 = theta_1_ # + delta_theta_EC
 
     # angle of refraction
     theta_2 = np.arcsin(n1 * np.sin(theta_1) / n2)  # eq 1
