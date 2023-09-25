@@ -78,6 +78,7 @@ __Automated Seafloor Extraction Codes__
  - [Sentinel-2/Copernicus Open Access](https://scihub.copernicus.eu) - Source for downloading imagery from the Sentinel-2 satellite, as well as other sentinel products.
  - [MODIS-1B data](https://modis.gsfc.nasa.gov/data/dataprod/mod02.php) - Calibrated and geolocated at-aperture radiances for 36 bands generated from MODIS Level 1A sensor counts (MOD 01).
  - [GDAL](https://gdal.org) - GDAL is a translator library for raster and vector geospatial data formats.
+ - [PSMSL](https://psmsl.org/data/obtaining/ellipsoidal_links.php) - Permanent Service for Mean Sea Level (PSMSL) stations with GNSS ellipsoid heights.
  - Various geospatial python libraries such as pyproj, geopandas, rasterio, shapely, etc...
 
 ## Publications
