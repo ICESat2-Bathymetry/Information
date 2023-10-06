@@ -79,6 +79,7 @@ __Automated Seafloor Extraction Codes__
  - [MODIS-1B data](https://modis.gsfc.nasa.gov/data/dataprod/mod02.php) - Calibrated and geolocated at-aperture radiances for 36 bands generated from MODIS Level 1A sensor counts (MOD 01).
  - [GDAL](https://gdal.org) - GDAL is a translator library for raster and vector geospatial data formats.
  - [PSMSL](https://psmsl.org/data/obtaining/ellipsoidal_links.php) - Permanent Service for Mean Sea Level (PSMSL) stations with GNSS ellipsoid heights.
+ - [ShallowBathymetryEverywhere](https://shallowbathymetryeverywhere.com/) - Examples of ICESat-2-aided SDB for select locations around the world.
  - Various geospatial python libraries such as pyproj, geopandas, rasterio, shapely, etc...
 
 ## Publications
